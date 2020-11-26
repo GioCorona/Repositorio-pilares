@@ -1,0 +1,3 @@
+Oculto: oculta el archivo y a menos que tengas habilitada la opcion de ver ocultos no veras el archivo
+
+Solo lectura, impide modificar el documento
